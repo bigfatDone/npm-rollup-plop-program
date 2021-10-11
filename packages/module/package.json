@@ -1,0 +1,6 @@
+{
+  "name": "@pc-component/module",
+  "version": "0.0.0",
+  "description": "module",
+  "main": "dist/index.js"
+}
